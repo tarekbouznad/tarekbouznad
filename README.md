@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Final Year electronics student, passionate about Signal Processing, Embedded Systems and robotics.
 <!--
 **tarekbouznad/tarekbouznad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
